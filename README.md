@@ -1,2 +1,2 @@
 Projeto para estudo no curso de "NodeJS do zero a Maestria".
-O Objetivo é criar uma aplicação MVC que faça CRUD com mongoDB.
+O Objetivo é criar uma aplicação MVC que faça CRUD com mongoDB (sem uso de framework para o mongoDB).
